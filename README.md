@@ -1,10 +1,10 @@
 # Ayush's Portfolio
 
-Hi, I'm Ayush! wave
-Cyber Security trainee with some flull stack skills
-sparkles Favorite Tech: JavaScript, C, Web Penetration , Wordpress , SQL, DBMS ,  NodeJS, Python ...
-thinking I’m looking for help with some Binary Exploitations and NodeJS 
+Hi, I'm Ayush! wave <br>
+Cyber Security trainee with some flull stack skills<br>
+sparkles Favorite Tech: JavaScript, C, Web Penetration , Wordpress , SQL, DBMS ,  NodeJS, Python ... <br>
+thinking I’m looking for help with some Binary Exploitations and NodeJS <br>
 heart Newly found love in Bug Bounty and full stack developement
-email ayush.k.singh.2298@gmail.com
-art Portfolio: https://ayushsingh.info
-briefcase LinkedIn: https://www.linkedin.com/in/ayushsingh22 
+email ayush.k.singh.2298@gmail.com<br>
+art Portfolio: https://ayushsingh.info <br>
+briefcase LinkedIn: https://www.linkedin.com/in/ayushsingh22 <br>
