@@ -1,6 +1,6 @@
 # Ayush's Portfolio
 
-Hi, I'm Ayush! wave <br>
+<h1>Hi Ayush! <span class="wave">👋</span></h1>
 Cyber Security trainee with some flull stack skills<br>
 sparkles Favorite Tech: JavaScript, C, Web Penetration , Wordpress , SQL, DBMS ,  NodeJS, Python ... <br>
 thinking I’m looking for help with some Binary Exploitations and NodeJS <br>
